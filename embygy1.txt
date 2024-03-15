@@ -142,5 +142,8 @@ DOMAIN-SUFFIX,emby.at
 DOMAIN-SUFFIX,ycxdy.top
 DOMAIN-SUFFIX,reddust.link
 DOMAIN-SUFFIX,am.sb
-DOMAIN-KEYWORD,misakaf
+DOMAIN,stream1.misakaf.org
+DOMAIN,stream2.misakaf.org
+DOMAIN,stream3.misakaf.org
+DOMAIN,stream4.misakaf.org
 
